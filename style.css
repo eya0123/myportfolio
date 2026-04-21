@@ -11,7 +11,7 @@ html, body {
     scroll-behavior: smooth;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(to right, rgb(73, 164, 120), rgb(254,215,173));
+    background: linear-gradient(to right, rgb(255,255,255), rgb(254,215,173));
 }
 
 nav {
